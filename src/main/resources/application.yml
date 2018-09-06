@@ -12,3 +12,13 @@ spring:
 logging:
   level:
     root : INFO
+
+info:
+  app:
+      java:
+         source:@java.version@
+         target:@java.version@
+      encoding: "UTF-8"
+  developer: chenzhuo
+
+
